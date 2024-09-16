@@ -1,0 +1,100 @@
+.head{
+    border: 1px solid #fff;
+    text-align: center;
+    
+
+
+}
+body{
+    background: #fff url(img/fund.jpeg);
+    
+}
+
+
+#principal{
+    background-color: rgb(255, 255, 255);
+    padding: 15px;
+    margin-bottom: 20px;
+   
+}
+
+#logo{
+    
+    background-color: #8a8986;
+    border: #8a8986;
+   
+    
+}
+#menu {
+    background-color: #d8d7cd;
+    border: #d8d7cd;
+    padding: 10px;
+    font-display: 10px;
+    gap: 20px;
+
+    
+    
+}
+
+.conteudo{
+    border-radius: 10px;
+    width: 700px;
+    margin: 0 auto;
+    padding: 15px;
+    border: 2px solid #fff;
+}
+
+.texto{
+    text-align: center;
+    width: 40vw;
+    margin: 0 auto;
+
+}
+#contato{
+    border-radius: 20px;
+    border-color: #8a8986;
+    
+}
+#conteudo{
+    text-align: center;
+}
+#rodape{
+    border: 2px solid #fff;
+    border-radius: 30px;
+    background-color: #474747;
+    color: #fff;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+}
+a:link, a:visited{
+    color: #1c0e52;
+}
+a:hover{
+    text-decoration: underline; 
+}
+
+img{
+    border-radius: 10px;
+    margin-left: 7%;
+}
+
+.dicas{
+    text-align: center;
+}
+.img{
+    float: right;
+
+}
+.img1{
+    float: right;
+    width: 30px;
+}
+#flor{
+   float: right;
+}
+    
+
+
